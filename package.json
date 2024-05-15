@@ -1,0 +1,11 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "This project is a basic CRUD (Create, Read, Update, Delete) backend application built using Node.js, Express, and MongoDB. It provides endpoints to perform CRUD operations on a MongoDB database.",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.6.2"
+  }
+}
